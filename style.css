@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(167, 247, 247)
+ }
+ h1{
+text-align: center;
+ }
+p1{
+    font-size: xx-large;
+}
+button{
+    width: 100px;
+    height:100px;
+    float: right;
+}
+.text-block{
+    position: center;
+  background-color: rgb(233, 231, 231);
+  color: rgb(0, 0, 0);
+  
+}
